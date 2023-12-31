@@ -14,6 +14,7 @@ class MyAppTheme {
       scaffoldBackgroundColor: Colors.white,
       textTheme: MyAppTextTheme.lightTextTheme,
       elevatedButtonTheme: MyAppElevatedButtonTheme.lightElevatedButtonTheme);
+    
 // cretate theme data to light mood
 
 // cretate theme data to dark mood
